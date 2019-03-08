@@ -1,0 +1,265 @@
+// DO NOT EDIT :: THE CAA2 WIZARD WILL REPLACE ALL THE CODE HERE
+CATDlgDialog CCEFrameInSoundproofCottonGenerationDlg
+{
+  STYLE = CATDlgWndBtnOKCancel|CATDlgGridLayout;
+}
+
+CATDlgFrame Frame001
+{
+  FATHER = CCEFrameInSoundproofCottonGenerationDlg;
+  STYLE = CATDlgFraNoTitle|CATDlgGridLayout;
+  GRID = { 0, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label002
+{
+  FATHER = Frame001;
+  GRID = { 0, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label004
+{
+  FATHER = Frame001;
+  GRID = { 1, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label006
+{
+  FATHER = Frame001;
+  GRID = { 2, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgEditor Editor007
+{
+  FATHER = Frame001;
+  GRID = { 2, 1, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgEditor Editor008
+{
+  FATHER = Frame001;
+  GRID = { 0, 1, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgEditor Editor009
+{
+  FATHER = Frame001;
+  GRID = { 1, 1, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgFrame Frame010
+{
+  FATHER = CCEFrameInSoundproofCottonGenerationDlg;
+  STYLE = CATDlgGridLayout;
+  GRID = { 1, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label011
+{
+  FATHER = Frame010;
+  GRID = { 0, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgEditor Editor012
+{
+  FATHER = Frame010;
+  GRID = { 0, 1, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label013
+{
+  FATHER = Frame010;
+  GRID = { 1, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgEditor Editor014
+{
+  FATHER = Frame010;
+  GRID = { 1, 1, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgFrame Frame021
+{
+  FATHER = CCEFrameInSoundproofCottonGenerationDlg;
+  STYLE = CATDlgFraNoTitle|CATDlgGridLayout;
+  GRID = { 3, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label022
+{
+  FATHER = Frame021;
+  GRID = { 0, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgEditor Editor023
+{
+  FATHER = Frame021;
+  GRID = { 0, 1, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgFrame Frame024
+{
+  FATHER = CCEFrameInSoundproofCottonGenerationDlg;
+  STYLE = CATDlgGridLayout;
+  GRID = { 4, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label025
+{
+  FATHER = Frame024;
+  GRID = { 0, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgEditor Editor026
+{
+  FATHER = Frame024;
+  GRID = { 0, 1, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label027
+{
+  FATHER = Frame024;
+  GRID = { 0, 2, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgCombo Combo028
+{
+  FATHER = Frame024;
+  STYLE = CATDlgCmbDropDown;
+  GRID = { 0, 3, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label029
+{
+  FATHER = Frame024;
+  GRID = { 1, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label030
+{
+  FATHER = Frame024;
+  GRID = { 2, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label031
+{
+  FATHER = Frame024;
+  GRID = { 3, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label032
+{
+  FATHER = Frame024;
+  GRID = { 4, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgEditor Editor033
+{
+  FATHER = Frame024;
+  GRID = { 1, 1, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgEditor Editor034
+{
+  FATHER = Frame024;
+  GRID = { 2, 1, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgEditor Editor035
+{
+  FATHER = Frame024;
+  GRID = { 3, 1, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgEditor Editor036
+{
+  FATHER = Frame024;
+  GRID = { 4, 1, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label037
+{
+  FATHER = Frame024;
+  GRID = { 1, 2, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label039
+{
+  FATHER = Frame024;
+  GRID = { 2, 2, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label040
+{
+  FATHER = Frame024;
+  GRID = { 3, 2, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label041
+{
+  FATHER = Frame024;
+  GRID = { 4, 2, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgCombo Combo042
+{
+  FATHER = Frame024;
+  STYLE = CATDlgCmbDropDown;
+  GRID = { 1, 3, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgCombo Combo043
+{
+  FATHER = Frame024;
+  STYLE = CATDlgCmbDropDown;
+  GRID = { 2, 3, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgCombo Combo044
+{
+  FATHER = Frame024;
+  STYLE = CATDlgCmbDropDown;
+  GRID = { 3, 3, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgCombo Combo045
+{
+  FATHER = Frame024;
+  STYLE = CATDlgCmbDropDown;
+  GRID = { 4, 3, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgFrame Frame015
+{
+  FATHER = CCEFrameInSoundproofCottonGenerationDlg;
+  STYLE = CATDlgGridLayout;
+  GRID = { 2, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label016
+{
+  FATHER = Frame015;
+  GRID = { 0, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgCombo Combo017
+{
+  FATHER = Frame015;
+  STYLE = CATDlgCmbDropDown;
+  GRID = { 0, 1, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgLabel Label018
+{
+  FATHER = Frame015;
+  GRID = { 1, 0, 1, 1, CATGRID_4SIDES };
+}
+
+CATDlgCombo Combo019
+{
+  FATHER = Frame015;
+  STYLE = CATDlgCmbDropDown;
+  GRID = { 1, 1, 1, 1, CATGRID_4SIDES };
+}
+
+// END WIZARD REPLACEMENT ZONE

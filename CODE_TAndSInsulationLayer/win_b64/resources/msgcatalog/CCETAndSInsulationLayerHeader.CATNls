@@ -1,0 +1,133 @@
+CCETAndSInsulationLayerHeader.FrameInSoundproofCottonGeneration.Title     = "框上隔音棉生成";
+CCETAndSInsulationLayerHeader.FrameInSoundproofCottonGeneration.ShortHelp = "框上隔音棉生成";
+CCETAndSInsulationLayerHeader.FrameInSoundproofCottonGeneration.Help      = "框上隔音棉生成";
+CCETAndSInsulationLayerHeader.FrameInSoundproofCottonGeneration.LongHelp  = "框上隔音棉生成";
+
+CCETAndSInsulationLayerHeader.FrameBetweenSoundproofCottonGeneration.Title     = "框间隔音棉生成";
+CCETAndSInsulationLayerHeader.FrameBetweenSoundproofCottonGeneration.ShortHelp = "框间隔音棉生成";
+CCETAndSInsulationLayerHeader.FrameBetweenSoundproofCottonGeneration.Help      = "框间隔音棉生成";
+CCETAndSInsulationLayerHeader.FrameBetweenSoundproofCottonGeneration.LongHelp  = "框间隔音棉生成";
+
+CCETAndSInsulationLayerHeader.ContractionFrameBetweenSoundproofCottonGeneration.Title     = "收缩段框间隔音棉生成";
+CCETAndSInsulationLayerHeader.ContractionFrameBetweenSoundproofCottonGeneration.ShortHelp = "收缩段框间隔音棉生成";
+CCETAndSInsulationLayerHeader.ContractionFrameBetweenSoundproofCottonGeneration.Help      = "收缩段框间隔音棉生成";
+CCETAndSInsulationLayerHeader.ContractionFrameBetweenSoundproofCottonGeneration.LongHelp  = "收缩段框间隔音棉生成";
+
+CCETAndSInsulationLayerHeader.OpeningFeatureGeneration.Title     = "开叉特征生成";
+CCETAndSInsulationLayerHeader.OpeningFeatureGeneration.ShortHelp = "开叉特征生成";
+CCETAndSInsulationLayerHeader.OpeningFeatureGeneration.Help      = "开叉特征生成";
+CCETAndSInsulationLayerHeader.OpeningFeatureGeneration.LongHelp  = "开叉特征生成";
+
+CCETAndSInsulationLayerHeader.GrooveFeatureGeneration.Title     = "开槽特征生成";
+CCETAndSInsulationLayerHeader.GrooveFeatureGeneration.ShortHelp = "开槽特征生成";
+CCETAndSInsulationLayerHeader.GrooveFeatureGeneration.Help      = "开槽特征生成";
+CCETAndSInsulationLayerHeader.GrooveFeatureGeneration.LongHelp  = "开槽特征生成";
+
+CCETAndSInsulationLayerHeader.FrameInSoundproofCottonUnfold.Title     = "框上隔音棉展开";
+CCETAndSInsulationLayerHeader.FrameInSoundproofCottonUnfold.ShortHelp = "框上隔音棉展开";
+CCETAndSInsulationLayerHeader.FrameInSoundproofCottonUnfold.Help      = "框上隔音棉展开";
+CCETAndSInsulationLayerHeader.FrameInSoundproofCottonUnfold.LongHelp  = "框上隔音棉展开";
+
+CCETAndSInsulationLayerHeader.FrameBetweenSoundproofCottonUnfold.Title     = "框间隔音棉展开";
+CCETAndSInsulationLayerHeader.FrameBetweenSoundproofCottonUnfold.ShortHelp = "框间隔音棉展开";
+CCETAndSInsulationLayerHeader.FrameBetweenSoundproofCottonUnfold.Help      = "框间隔音棉展开";
+CCETAndSInsulationLayerHeader.FrameBetweenSoundproofCottonUnfold.LongHelp  = "框间隔音棉展开";
+
+CCETAndSInsulationLayerHeader.InstallationAndUnfoldUpdate.Title     = "安装状态及展开状态自动更新";
+CCETAndSInsulationLayerHeader.InstallationAndUnfoldUpdate.ShortHelp = "安装状态及展开状态自动更新";
+CCETAndSInsulationLayerHeader.InstallationAndUnfoldUpdate.Help      = "安装状态及展开状态自动更新";
+CCETAndSInsulationLayerHeader.InstallationAndUnfoldUpdate.LongHelp  = "安装状态及展开状态自动更新";
+
+
+
+
+
+
+CCETAndSInsulationLayerHeader.FastenerDefinition.Title     = "紧固件定义";
+CCETAndSInsulationLayerHeader.FastenerDefinition.ShortHelp = "紧固件定义";
+CCETAndSInsulationLayerHeader.FastenerDefinition.Help      = "紧固件定义";
+CCETAndSInsulationLayerHeader.FastenerDefinition.LongHelp  = "紧固件定义";
+
+CCETAndSInsulationLayerHeader.FastenerModify.Title     = "紧固件修改";
+CCETAndSInsulationLayerHeader.FastenerModify.ShortHelp = "紧固件修改";
+CCETAndSInsulationLayerHeader.FastenerModify.Help      = "紧固件修改";
+CCETAndSInsulationLayerHeader.FastenerModify.LongHelp  = "紧固件修改";
+
+CCETAndSInsulationLayerHeader.FastenerInstantiation.Title     = "实例化紧固件装配";
+CCETAndSInsulationLayerHeader.FastenerInstantiation.ShortHelp = "实例化紧固件装配";
+CCETAndSInsulationLayerHeader.FastenerInstantiation.Help      = "实例化紧固件装配";
+CCETAndSInsulationLayerHeader.FastenerInstantiation.LongHelp  = "实例化紧固件装配";
+
+
+
+
+
+CCETAndSInsulationLayerHeader.WeightStatistic.Title     = "重量统计";
+CCETAndSInsulationLayerHeader.WeightStatistic.ShortHelp = "重量统计";
+CCETAndSInsulationLayerHeader.WeightStatistic.Help      = "重量统计";
+CCETAndSInsulationLayerHeader.WeightStatistic.LongHelp  = "重量统计";
+
+CCETAndSInsulationLayerHeader.MaterialUsingStatistic.Title     = "材料用量统计";
+CCETAndSInsulationLayerHeader.MaterialUsingStatistic.ShortHelp = "材料用量统计";
+CCETAndSInsulationLayerHeader.MaterialUsingStatistic.Help      = "材料用量统计";
+CCETAndSInsulationLayerHeader.MaterialUsingStatistic.LongHelp  = "材料用量统计";
+
+CCETAndSInsulationLayerHeader.FastenerNumberStatistic.Title     = "紧固件数量统计";
+CCETAndSInsulationLayerHeader.FastenerNumberStatistic.ShortHelp = "紧固件数量统计";
+CCETAndSInsulationLayerHeader.FastenerNumberStatistic.Help      = "紧固件数量统计";
+CCETAndSInsulationLayerHeader.FastenerNumberStatistic.LongHelp  = "紧固件数量统计";
+
+
+
+
+
+
+CCETAndSInsulationLayerHeader.MaterialLibSearch.Title     = "材料库查询";
+CCETAndSInsulationLayerHeader.MaterialLibSearch.ShortHelp = "材料库查询";
+CCETAndSInsulationLayerHeader.MaterialLibSearch.Help      = "材料库查询";
+CCETAndSInsulationLayerHeader.MaterialLibSearch.LongHelp  = "材料库查询";
+
+CCETAndSInsulationLayerHeader.MaterialLibAdd.Title     = "材料库新增";
+CCETAndSInsulationLayerHeader.MaterialLibAdd.ShortHelp = "材料库新增";
+CCETAndSInsulationLayerHeader.MaterialLibAdd.Help      = "材料库新增";
+CCETAndSInsulationLayerHeader.MaterialLibAdd.LongHelp  = "材料库新增";
+
+CCETAndSInsulationLayerHeader.MaterialLibModify.Title     = "材料库修改";
+CCETAndSInsulationLayerHeader.MaterialLibModify.ShortHelp = "材料库修改";
+CCETAndSInsulationLayerHeader.MaterialLibModify.Help      = "材料库修改";
+CCETAndSInsulationLayerHeader.MaterialLibModify.LongHelp  = "材料库修改";
+
+CCETAndSInsulationLayerHeader.MaterialLibDelete.Title     = "材料库删除";
+CCETAndSInsulationLayerHeader.MaterialLibDelete.ShortHelp = "材料库删除";
+CCETAndSInsulationLayerHeader.MaterialLibDelete.Help      = "材料库删除";
+CCETAndSInsulationLayerHeader.MaterialLibDelete.LongHelp  = "材料库删除";
+
+
+
+
+
+
+CCETAndSInsulationLayerHeader.FastenerLibSearch.Title     = "紧固件库查询";
+CCETAndSInsulationLayerHeader.FastenerLibSearch.ShortHelp = "紧固件库查询";
+CCETAndSInsulationLayerHeader.FastenerLibSearch.Help      = "紧固件库查询";
+CCETAndSInsulationLayerHeader.FastenerLibSearch.LongHelp  = "紧固件库查询";
+
+CCETAndSInsulationLayerHeader.FastenerLibAdd.Title     = "紧固件库新增";
+CCETAndSInsulationLayerHeader.FastenerLibAdd.ShortHelp = "紧固件库新增";
+CCETAndSInsulationLayerHeader.FastenerLibAdd.Help      = "紧固件库新增";
+CCETAndSInsulationLayerHeader.FastenerLibAdd.LongHelp  = "紧固件库新增";
+
+CCETAndSInsulationLayerHeader.FastenerLibModify.Title     = "紧固件库修改";
+CCETAndSInsulationLayerHeader.FastenerLibModify.ShortHelp = "紧固件库修改";
+CCETAndSInsulationLayerHeader.FastenerLibModify.Help      = "紧固件库修改";
+CCETAndSInsulationLayerHeader.FastenerLibModify.LongHelp  = "紧固件库修改";
+
+CCETAndSInsulationLayerHeader.FastenerLibDelete.Title     = "紧固件库删除";
+CCETAndSInsulationLayerHeader.FastenerLibDelete.ShortHelp = "紧固件库删除";
+CCETAndSInsulationLayerHeader.FastenerLibDelete.Help      = "紧固件库删除";
+CCETAndSInsulationLayerHeader.FastenerLibDelete.LongHelp  = "紧固件库删除";
+
+
+
+
+

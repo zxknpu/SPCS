@@ -1,0 +1,33 @@
+<?xml version='1.0' ?>
+<codeFramework xmlns = "http://www.3ds.ic" xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation = "http://www.3ds.ic ICModel.xsd">
+  <prerequisite name = "System" access = "Protected"/>
+  <prerequisite name = "ApplicationFrame" access = "Protected"/>
+  <prerequisite name = "DialogEngine" access = "Protected"/>
+  <prerequisite name = "Mathematics" access = "Protected"/>
+  <prerequisite name = "Dialog" access = "Protected"/>
+  <prerequisite name = "ObjectModelerBase" access = "Protected"/>
+  <prerequisite name = "MecModInterfaces" access = "Protected"/>
+  <prerequisite name = "ObjectSpecsModeler" access = "Protected"/>
+  <prerequisite name = "Visualization" access = "Protected"/>
+  <prerequisite name = "MechanicalModeler" access = "Protected"/>
+  <prerequisite name = "KnowledgeInterfaces" access = "Protected"/>
+  <prerequisite name = "GSMInterfaces" access = "Protected"/>
+  <prerequisite name = "NewTopologicalObjects" access = "Protected"/>
+  <prerequisite name = "MeasureGeometryInterfaces" access = "Protected"/>
+  <prerequisite name = "ProductStructure" access = "Protected"/>
+  <prerequisite name = "MechanicalCommands" access = "Protected"/>
+  <prerequisite name = "SpaceAnalysisInterfaces" access = "Protected"/>
+  <prerequisite name = "CATAssemblyInterfaces" access = "Protected"/>
+  <prerequisite name = "GeometricObjects" access = "Protected"/>
+  <prerequisite name = "PartInterfaces" access = "Protected"/>
+  <prerequisite name = "DraftingInterfaces" access = "Protected"/>
+  <prerequisite name = "SketcherInterfaces" access = "Protected"/>
+  <prerequisite name = "InteractiveInterfaces" access = "Protected"/>
+  <prerequisite name = "GSOInterfaces" access = "Protected"/>
+  <prerequisite name = "ProductStructureInterfaces" access = "Protected"/>
+  <prerequisite name = "VisualizationBase" access = "Protected"/>
+  <prerequisite name = "Dialog" access = "Protected"/>
+  <prerequisite name = "DialogEngine" access = "Protected"/>
+  <prerequisite name = "Mathematics" access = "Protected"/>
+  <prerequisite name = "MechanicalModelerUI" access = "Protected"/>
+</codeFramework>

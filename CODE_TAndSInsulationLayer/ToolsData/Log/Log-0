@@ -1,0 +1,92 @@
+mkmk  -u -g  CCETAndSInsulationLayerOperationM.m
+2019/2/20 11:40:37
+
+## start step: CIbuild   at 02/20/2019-11:40:38
+## end   step: CIbuild   at 02/20/2019-11:40:38
+
+## start step: DataUpdate   at 02/20/2019-11:40:38
+# mkmk-ERROR: CCETAndSInsulationLayerFrm: Duplicated direct prerequisite to framework [Dialog] as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>) is ignored since it already exists as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>).
+# mkmk-ERROR: CCETAndSInsulationLayerFrm: Duplicated direct prerequisite to framework [DialogEngine] as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>) is ignored since it already exists as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>).
+# mkmk-ERROR: CCETAndSInsulationLayerFrm: Duplicated direct prerequisite to framework [Mathematics] as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>) is ignored since it already exists as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>).
+# make:  CCETAndSInsulationLayerFrm\IdentityCard\Objects\win_b64\.mkdata.mkb
+## end   step: DataUpdate   at 02/20/2019-11:40:38
+
+## start step: DataUpdate   at 02/20/2019-11:40:38
+# make:  CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\Objects\win_b64\.mkdata.mkb
+## end   step: DataUpdate   at 02/20/2019-11:40:39
+
+## start step: CIcompilation   at 02/20/2019-11:40:39
+## end   step: CIcompilation   at 02/20/2019-11:40:39
+
+## start step: headerlist   at 02/20/2019-11:40:39
+## end   step: headerlist   at 02/20/2019-11:40:39
+
+## start step: headermap   at 02/20/2019-11:40:39
+## end   step: headermap   at 02/20/2019-11:40:39
+
+## start step: buildtimedata   at 02/20/2019-11:40:39
+## end   step: buildtimedata   at 02/20/2019-11:40:39
+
+## start step: fwgrammar   at 02/20/2019-11:40:39
+## end   step: fwgrammar   at 02/20/2019-11:40:39
+
+## start step: cppgrammar   at 02/20/2019-11:40:39
+## end   step: cppgrammar   at 02/20/2019-11:40:39
+
+## start step: headerlist   at 02/20/2019-11:40:39
+## end   step: headerlist   at 02/20/2019-11:40:39
+
+## start step: headermap   at 02/20/2019-11:40:39
+## end   step: headermap   at 02/20/2019-11:40:39
+
+## start step: grammar1st   at 02/20/2019-11:40:39
+## end   step: grammar1st   at 02/20/2019-11:40:39
+
+## start step: typelibgrammar   at 02/20/2019-11:40:39
+## end   step: typelibgrammar   at 02/20/2019-11:40:39
+
+## start step: headerruler   at 02/20/2019-11:40:39
+## end   step: headerruler   at 02/20/2019-11:40:39
+
+## start step: compilation   at 02/20/2019-11:40:39
+# make:  CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m: creates the precompiled header
+mkmksourceforpch.cpp
+# make:  CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\src\CCEFrameInSoundproofCottonGenerationCmd.cpp
+CCEFrameInSoundproofCottonGenerationCmd.cpp
+C:\DassaultSystemes\B22\.\DialogEngine\PublicInterfaces\CATStateCommand.h(742) : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\DassaultSystemes\B22\.\GSMInterfaces\PublicInterfaces\CATIGSMBoundary.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\dassaultsystemes\b22\visualizationbase\publicinterfaces\CAT3DRep.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\DassaultSystemes\B22\.\GSMInterfaces\PublicInterfaces\CATIGSMBoundary.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\CODE_TAndSInsulationLayer\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\src\CCEFrameInSoundproofCottonGenerationCmd.cpp(56) : error C2653: “CCECarcassCmd”: 不是类或命名空间名称
+E:\CODE_TAndSInsulationLayer\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\src\CCEFrameInSoundproofCottonGenerationCmd.cpp(56) : error C2276: “&”: 绑定成员函数表达式上的非法操作
+E:\CODE_TAndSInsulationLayer\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\src\CCEFrameInSoundproofCottonGenerationCmd.cpp(61) : error C2653: “CCECarcassCmd”: 不是类或命名空间名称
+E:\CODE_TAndSInsulationLayer\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\src\CCEFrameInSoundproofCottonGenerationCmd.cpp(61) : error C2276: “&”: 绑定成员函数表达式上的非法操作
+E:\CODE_TAndSInsulationLayer\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\src\CCEFrameInSoundproofCottonGenerationCmd.cpp(66) : error C2653: “CCECarcassCmd”: 不是类或命名空间名称
+E:\CODE_TAndSInsulationLayer\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\src\CCEFrameInSoundproofCottonGenerationCmd.cpp(66) : error C2276: “&”: 绑定成员函数表达式上的非法操作
+E:\CODE_TAndSInsulationLayer\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\src\CCEFrameInSoundproofCottonGenerationCmd.cpp(71) : error C2653: “CCECarcassCmd”: 不是类或命名空间名称
+E:\CODE_TAndSInsulationLayer\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\src\CCEFrameInSoundproofCottonGenerationCmd.cpp(71) : error C2276: “&”: 绑定成员函数表达式上的非法操作
+# make-ERROR: CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\src\CCEFrameInSoundproofCottonGenerationCmd.cpp
+# make:  tools\data\mkmksourceforpch.cpp
+## end   step: compilation   at 02/20/2019-11:40:42
+
+## start step: sourceruler   at 02/20/2019-11:40:42
+## end   step: sourceruler   at 02/20/2019-11:40:42
+
+## start step: link1st   at 02/20/2019-11:40:42
+# make: CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m win_b64\code\lib\CCETAndSInsulationLayerOperationM.lib
+# syst-ERROR: [E:\CODE_TAndSInsulationLayer\.\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\Objects\win_b64\CCEFrameInSoundproofCottonGenerationCmd.obj]: No such file or directory
+# make-ERROR: win_b64\code\lib\CCETAndSInsulationLayerOperationM.lib
+## end   step: link1st   at 02/20/2019-11:40:42
+
+## start step: link2nd   at 02/20/2019-11:40:42
+# make: CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m win_b64\code\bin\CCETAndSInsulationLayerOperationM.dll
+# syst-ERROR: [E:\CODE_TAndSInsulationLayer\.\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\Objects\win_b64\CCEFrameInSoundproofCottonGenerationCmd.obj]: No such file or directory
+# syst-ERROR: [E:\CODE_TAndSInsulationLayer\.\win_b64\code\lib\CCETAndSInsulationLayerOperationM.exp]: No such file or directory
+# make-ERROR: win_b64\code\bin\CCETAndSInsulationLayerOperationM.dll
+## end   step: link2nd   at 02/20/2019-11:40:42
+
+## start step: runtimedata   at 02/20/2019-11:40:42
+## end   step: runtimedata   at 02/20/2019-11:40:42
+
+## start step: dummynls   at 02/20/2019-11:40:42
+## end   step: dummynls   at 02/20/2019-11:40:42

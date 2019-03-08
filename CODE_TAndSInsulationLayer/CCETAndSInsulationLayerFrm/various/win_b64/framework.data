@@ -1,0 +1,17 @@
+!<mkRTViewData> v1.0.0
+CSC/002/DSI .\CCETAndSInsulationLayerFrm\IdentityCard\Objects\win_b64\mkcsc\CCETAndSInsulationLayerFrm.cscdb|.\CCETAndSInsulationLayerFrm
+DAT/002/CUS .\win_b64\resources\msgcatalog\CCEFrameInSoundproofCottonGenerationCmd.CATNls|.\CCETAndSInsulationLayerFrm\CNext\resources\msgcatalog\CCEFrameInSoundproofCottonGenerationCmd.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\CCETAndSInsulationLayerHeader.CATNls|.\CCETAndSInsulationLayerFrm\CNext\resources\msgcatalog\CCETAndSInsulationLayerHeader.CATNls
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\CCEFrameInSoundproofCottonGenerationDlg.CATNls|.\CCETAndSInsulationLayerFrm\CNext\resources\msgcatalog\CCEFrameInSoundproofCottonGenerationDlg.CATNls
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\CCETAndSInsulationLayerHeader.CATNls|.\CCETAndSInsulationLayerFrm\CNext\resources\msgcatalog\CCETAndSInsulationLayerHeader.CATNls
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\CCEFrameInSoundproofCottonGenerationCmd.CATNls|.\CCETAndSInsulationLayerFrm\CNext\resources\msgcatalog\CCEFrameInSoundproofCottonGenerationCmd.CATNls
+BTV/002/CUS .\win_b64\code\productIC\CCETAndSInsulationLayerFrmIC.xml|.\CCETAndSInsulationLayerFrm
+BTV/002/CUS .\win_b64\code\productIC\CCETAndSInsulationLayerFrmIC.script|.\CCETAndSInsulationLayerFrm
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\CCEFrameInSoundproofCottonGenerationCmd.CATNls|.\CCETAndSInsulationLayerFrm\CNext\resources\msgcatalog\CCEFrameInSoundproofCottonGenerationCmd.CATNls
+DAT/002/CUS .\win_b64\code\dictionary\CCETAndSInsulationLayerFrm.dico|.\CCETAndSInsulationLayerFrm\CNext\code\dictionary\CCETAndSInsulationLayerFrm.dico
+RTV/000/DSI .\win_b64\resources\msgcatalog\DbcsTest\CCETAndSInsulationLayerHeader.CATNls|.\CCETAndSInsulationLayerFrm\CNext\resources\msgcatalog\CCETAndSInsulationLayerHeader.CATNls
+DAT/002/CUS .\win_b64\resources\msgcatalog\CCEFrameInSoundproofCottonGenerationDlg.CATRsc|.\CCETAndSInsulationLayerFrm\CNext\resources\msgcatalog\CCEFrameInSoundproofCottonGenerationDlg.CATRsc
+RTV/002/DSI .\win_b64\code\productIC\CCETAndSInsulationLayerFrmIC.required|.\CCETAndSInsulationLayerFrm
+DAT/002/CUS .\win_b64\resources\msgcatalog\CCETAndSInsulationLayerHeader.CATRsc|.\CCETAndSInsulationLayerFrm\CNext\resources\msgcatalog\CCETAndSInsulationLayerHeader.CATRsc
+DAT/002/CUS .\win_b64\resources\msgcatalog\CCEFrameInSoundproofCottonGenerationDlg.CATNls|.\CCETAndSInsulationLayerFrm\CNext\resources\msgcatalog\CCEFrameInSoundproofCottonGenerationDlg.CATNls
+RTV/000/DSI .\win_b64\resources\msgcatalog\NlsTest\CCEFrameInSoundproofCottonGenerationDlg.CATNls|.\CCETAndSInsulationLayerFrm\CNext\resources\msgcatalog\CCEFrameInSoundproofCottonGenerationDlg.CATNls

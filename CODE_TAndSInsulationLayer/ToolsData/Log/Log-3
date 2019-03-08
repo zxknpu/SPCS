@@ -1,0 +1,17 @@
+mkrtv -c -d 
+2019/2/20 11:41:41
+
+## start step: DataUpdate   at 02/20/2019-11:41:43
+# mkmk-ERROR: CCETAndSInsulationLayerFrm: Duplicated direct prerequisite to framework [Dialog] as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>) is ignored since it already exists as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>).
+# mkmk-ERROR: CCETAndSInsulationLayerFrm: Duplicated direct prerequisite to framework [DialogEngine] as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>) is ignored since it already exists as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>).
+# mkmk-ERROR: CCETAndSInsulationLayerFrm: Duplicated direct prerequisite to framework [Mathematics] as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>) is ignored since it already exists as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>).
+## end   step: DataUpdate   at 02/20/2019-11:41:43
+# mkmk-INFO: Removing file [E:\CODE_TAndSInsulationLayer\win_b64\code\bin\CNEXT.exe].
+# mkmk-INFO: Directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\knowledgeResources\automation] is empty; Removing directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\knowledgeResources\automation].
+# mkmk-INFO: Directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\knowledgeResources\html] is empty; Removing directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\knowledgeResources\html].
+# mkmk-INFO: Directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\knowledgeResources] is empty; Removing directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\knowledgeResources].
+# mkmk-INFO: Directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\knowledgeResourcesCatalogs] is empty; Removing directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\knowledgeResourcesCatalogs].
+# mkmk-INFO: Directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\knowledgeTypesCustom] is empty; Removing directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\knowledgeTypesCustom].
+# mkmk-INFO: Directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\knowledgeTypesDS] is empty; Removing directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\knowledgeTypesDS].
+# mkmk-INFO: Directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\workbench] is empty; Removing directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge\workbench].
+# mkmk-INFO: Directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge] is empty; Removing directory [E:\CODE_TAndSInsulationLayer\win_b64\resources\knowledge].

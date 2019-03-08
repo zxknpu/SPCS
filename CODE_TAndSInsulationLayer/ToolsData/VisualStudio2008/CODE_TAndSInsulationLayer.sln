@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CCETAndSInsulationLayerFrm", "CCETAndSInsulationLayerFrm.vcproj", "{2E66E91E-FCFB-4E09-BE1B-A4CDB06B3F4D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CCETAndSInsulationLayerTlbM.m", "CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerTlbM.m.vcproj", "{344D4E3C-09B6-49D2-B1A5-DC7E59354A99}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CCETAndSInsulationLayerOperationM.m", "CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m.vcproj", "{2FFCBFB8-64AC-43C6-9150-1273D707D8A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E66E91E-FCFB-4E09-BE1B-A4CDB06B3F4D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2E66E91E-FCFB-4E09-BE1B-A4CDB06B3F4D}.Release|Win32.ActiveCfg = Release|Win32
+		{344D4E3C-09B6-49D2-B1A5-DC7E59354A99}.Debug|Win32.ActiveCfg = Debug|Win32
+		{344D4E3C-09B6-49D2-B1A5-DC7E59354A99}.Release|Win32.ActiveCfg = Release|Win32
+		{2FFCBFB8-64AC-43C6-9150-1273D707D8A9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2FFCBFB8-64AC-43C6-9150-1273D707D8A9}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

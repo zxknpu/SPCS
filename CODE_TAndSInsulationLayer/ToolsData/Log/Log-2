@@ -1,0 +1,11 @@
+mkCI -a
+2019/2/20 11:41:39
+
+## start step: CIbuild   at 02/20/2019-11:41:41
+## end   step: CIbuild   at 02/20/2019-11:41:41
+
+## start step: DataUpdate   at 02/20/2019-11:41:41
+# mkmk-ERROR: CCETAndSInsulationLayerFrm: Duplicated direct prerequisite to framework [Dialog] as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>) is ignored since it already exists as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>).
+# mkmk-ERROR: CCETAndSInsulationLayerFrm: Duplicated direct prerequisite to framework [DialogEngine] as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>) is ignored since it already exists as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>).
+# mkmk-ERROR: CCETAndSInsulationLayerFrm: Duplicated direct prerequisite to framework [Mathematics] as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>) is ignored since it already exists as (access=Protected,export=<NotSpecified>,expose=<NotSpecified>).
+## end   step: DataUpdate   at 02/20/2019-11:41:41

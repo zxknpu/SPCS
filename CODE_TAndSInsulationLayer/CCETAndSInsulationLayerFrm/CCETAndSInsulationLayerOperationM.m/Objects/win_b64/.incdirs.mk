@@ -1,0 +1,5 @@
+/I"E:\CODE_TAndSInsulationLayer\.\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\src"
+/I"E:\CODE_TAndSInsulationLayer\.\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\LocalInterfaces"
+/I"E:\CODE_TAndSInsulationLayer\.\CCETAndSInsulationLayerFrm\CCETAndSInsulationLayerOperationM.m\LocalGenerated\win_b64"
+/I"E:\CODE_TAndSInsulationLayer\.\CCETAndSInsulationLayerFrm\PublicInterfaces"
+/I"E:\CODE_TAndSInsulationLayer\.\CCETAndSInsulationLayerFrm\ImportedInterfaces\win_b64"
