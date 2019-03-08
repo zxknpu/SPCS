@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-1234
-=======
-hhhhhgggg
->>>>>>> aa30f67bedf71515a661fdb2a271a1455cb910e6
