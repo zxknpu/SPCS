@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\GSMInterfaces\PublicInterfaces\CATIGSMCorner.h"
+#include "D:\DassaultSystemes\B18\.\GSMInterfaces\PublicInterfaces\CATIGSMCorner.h"
 

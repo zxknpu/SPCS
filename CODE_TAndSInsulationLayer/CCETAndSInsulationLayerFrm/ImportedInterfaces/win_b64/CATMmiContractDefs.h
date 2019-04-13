@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\MecModInterfaces\PublicInterfaces\CATMmiContractDefs.h"
+#include "D:\DassaultSystemes\B18\.\MecModInterfaces\PublicInterfaces\CATMmiContractDefs.h"
 

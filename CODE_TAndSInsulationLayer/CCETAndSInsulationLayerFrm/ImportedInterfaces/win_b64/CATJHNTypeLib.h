@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\System\PublicInterfaces\CATJHNTypeLib.h"
+#include "D:\DassaultSystemes\B18\.\System\PublicInterfaces\CATJHNTypeLib.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\GSMInterfaces\PublicInterfaces\CATIGSMExtractSolide.h"
+#include "D:\DassaultSystemes\B18\.\GSMInterfaces\PublicInterfaces\CATIGSMExtractSolide.h"
 

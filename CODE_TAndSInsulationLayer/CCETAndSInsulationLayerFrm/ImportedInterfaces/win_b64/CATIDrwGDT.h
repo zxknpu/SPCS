@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\DraftingInterfaces\PublicInterfaces\CATIDrwGDT.h"
+#include "D:\DassaultSystemes\B18\.\DraftingInterfaces\PublicInterfaces\CATIDrwGDT.h"
 

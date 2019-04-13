@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\GSMInterfaces\PublicInterfaces\CATIGSMSpline.h"
+#include "D:\DassaultSystemes\B18\.\GSMInterfaces\PublicInterfaces\CATIGSMSpline.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\Dialog\PublicInterfaces\CATDlgBar.h"
+#include "D:\DassaultSystemes\B18\.\Dialog\PublicInterfaces\CATDlgBar.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\PartInterfaces\PublicInterfaces\CATIPrtPattern.h"
+#include "D:\DassaultSystemes\B18\.\PartInterfaces\PublicInterfaces\CATIPrtPattern.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\MecModInterfaces\PublicInterfaces\CATCstDefs.h"
+#include "D:\DassaultSystemes\B18\.\MecModInterfaces\PublicInterfaces\CATCstDefs.h"
 

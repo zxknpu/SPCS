@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\CATGSMUseItf\PublicInterfaces\CATGSMBasicLawDef.h"
+#include "D:\DassaultSystemes\B18\.\GSMInterfaces\PublicInterfaces\CATGSMBasicLawDef.h"
 

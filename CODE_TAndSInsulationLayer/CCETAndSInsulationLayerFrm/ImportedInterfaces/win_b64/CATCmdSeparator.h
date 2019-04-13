@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ApplicationFrame\PublicInterfaces\CATCmdSeparator.h"
+#include "D:\DassaultSystemes\B18\.\ApplicationFrame\PublicInterfaces\CATCmdSeparator.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\MechanicalModeler\PublicInterfaces\CATMmrApplicativeAttributes.h"
+#include "D:\DassaultSystemes\B18\.\MechanicalModeler\PublicInterfaces\CATMmrApplicativeAttributes.h"
 

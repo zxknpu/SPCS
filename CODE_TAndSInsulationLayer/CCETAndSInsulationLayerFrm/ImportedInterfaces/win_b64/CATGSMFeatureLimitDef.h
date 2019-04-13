@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\CATGSMUseItf\PublicInterfaces\CATGSMFeatureLimitDef.h"
+#include "D:\DassaultSystemes\B18\.\GSMInterfaces\PublicInterfaces\CATGSMFeatureLimitDef.h"
 

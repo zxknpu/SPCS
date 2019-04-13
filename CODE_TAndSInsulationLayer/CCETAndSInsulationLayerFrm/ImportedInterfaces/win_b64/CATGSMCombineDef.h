@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\CATGSMUseItf\PublicInterfaces\CATGSMCombineDef.h"
+#include "D:\DassaultSystemes\B18\.\GSMInterfaces\PublicInterfaces\CATGSMCombineDef.h"
 

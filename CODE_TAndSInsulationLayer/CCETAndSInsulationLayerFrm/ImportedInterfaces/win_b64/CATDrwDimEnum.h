@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\DraftingInterfaces\PublicInterfaces\CATDrwDimEnum.h"
+#include "D:\DassaultSystemes\B18\.\DraftingInterfaces\PublicInterfaces\CATDrwDimEnum.h"
 

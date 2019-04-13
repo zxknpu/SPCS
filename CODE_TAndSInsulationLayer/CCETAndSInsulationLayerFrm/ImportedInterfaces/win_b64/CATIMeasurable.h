@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\MeasureGeometryInterfaces\PublicInterfaces\CATIMeasurable.h"
+#include "D:\DassaultSystemes\B18\.\MeasureGeometryInterfaces\PublicInterfaces\CATIMeasurable.h"
 

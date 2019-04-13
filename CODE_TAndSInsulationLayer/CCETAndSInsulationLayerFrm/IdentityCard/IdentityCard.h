@@ -42,7 +42,5 @@ AddPrereqComponent("InteractiveInterfaces",Protected);
 AddPrereqComponent("GSOInterfaces",Protected);
 AddPrereqComponent("ProductStructureInterfaces",Protected);
 AddPrereqComponent("VisualizationBase",Protected);
-AddPrereqComponent("Dialog",Protected);
-AddPrereqComponent("DialogEngine",Protected);
-AddPrereqComponent("Mathematics",Protected);
 AddPrereqComponent("MechanicalModelerUI",Protected);
+AddPrereqComponent("CATTPSInterfaces",Protected);

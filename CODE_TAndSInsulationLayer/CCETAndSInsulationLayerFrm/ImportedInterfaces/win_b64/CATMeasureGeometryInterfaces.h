@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\MeasureGeometryInterfaces\PublicInterfaces\CATMeasureGeometryInterfaces.h"
+#include "D:\DassaultSystemes\B18\.\MeasureGeometryInterfaces\PublicInterfaces\CATMeasureGeometryInterfaces.h"
 

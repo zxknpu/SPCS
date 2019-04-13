@@ -203,26 +203,7 @@ extern CATICkeParm_var GetParamFromParamSetUnderGSD(CATIDescendants_var ispSpecG
 extern CATICkeParm_var CreateStringParam(CATUnicodeString iUSParamName,CATUnicodeString iUSValue,CATIParmPublisher_var ispFatherParamSet);
 extern CATICkeParm_var CreateIntegerParam(CATUnicodeString iUSParamName,int iValue,CATIParmPublisher_var ispFatherParamSet);
 extern CATICkeParm_var CreateIntParmWithRelationWithInputStringParams(CATUnicodeString iUSParamName,CATUnicodeString iUSRelationName,CATCkeListOf(Parm) ParamList1,CATUnicodeString USFormula,int iAddRelationToSet,CATIParmPublisher_var ispFatherParamSet);
-extern CATIDescendants_var GetDesCarcass( );
-extern CATIDescendants_var GetDesCarcassGS( );
-extern CATIDescendants_var GetDesApex( );
-extern CATIDescendants_var GetDesApex_GS( );
-extern CATIDescendants_var GetDesCarcassTurnUp( );
-extern CATIDescendants_var GetDesChipperA( );
-extern CATIDescendants_var GetDesLinerInsert( );
-extern CATIDescendants_var GetDesLiner( );
-extern CATIDescendants_var GetDesBelt( );
-extern CATIDescendants_var GetDesOuterProfile( );
-extern CATIDescendants_var GetDesRimCushion( );
-extern CATIDescendants_var GetDesWedge( );
-extern CATIDescendants_var GetDesSideWall( );
-extern CATIDescendants_var GetDesCapPly( );
-extern CATIDescendants_var GetDesTread( );  
-extern CATIDescendants_var GetDesButtress( );
-extern CATIDescendants_var GetDesChipperB( );
-extern CATIDescendants_var GetDesReference( );
-CATISpecObject_var GetSW_Line();
-CATISpecObject_var GetSW_PT();
+
 
 extern CATICkeParm_var CreateRatioParam(CATUnicodeString iUSParamName,double dValue,CATIParmPublisher_var ispFatherParamSet);
 
@@ -234,3 +215,11 @@ CATISpecObject_var CreateParaLine(CATISpecObject_var ispSpecSupport,
 								  CATICkeParm_var ispCkeParam2,
 								  CATISpecObject_var ispSpecRef,
 								  int iMax);
+
+extern CATUnicodeString CAAGsiGetSpecBasicName(const CATBaseUnknown_var & CurrentSpec);
+extern CATUnicodeString CAAGsiGetSpecDisplayName(const CATBaseUnknown_var& CurrentSpec);
+
+extern CATISpecObject_var GetRootParameterSet(CATIParmPublisher_var ispRoot);
+extern CATISpecObject_var GetRootRelationSet(CATIParmPublisher_var ispRoot);
+extern CATUnicodeString GetCurrentBinPath();
+extern CATIDescendants_var GetGSDByNameTheLast(CATIPrtPart_var ispPrtPart,CATUnicodeString iUSGSDName);

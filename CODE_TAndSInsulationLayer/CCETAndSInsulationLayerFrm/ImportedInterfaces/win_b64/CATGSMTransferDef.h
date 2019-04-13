@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\CATGSOUseItf\PublicInterfaces\CATGSMTransferDef.h"
+#include "D:\DassaultSystemes\B18\.\GSOInterfaces\PublicInterfaces\CATGSMTransferDef.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\System\PublicInterfaces\CATIStringList.h"
+#include "D:\DassaultSystemes\B18\.\System\PublicInterfaces\CATIStringList.h"
 

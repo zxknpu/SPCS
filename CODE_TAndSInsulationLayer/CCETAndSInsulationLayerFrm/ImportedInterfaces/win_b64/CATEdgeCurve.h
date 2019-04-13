@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\GeometricObjects\PublicInterfaces\CATEdgeCurve.h"
+#include "D:\DassaultSystemes\B18\.\GeometricObjects\PublicInterfaces\CATEdgeCurve.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\PartInterfaces\PublicInterfaces\CATPrtEnum.h"
+#include "D:\DassaultSystemes\B18\.\PartInterfaces\PublicInterfaces\CATPrtEnum.h"
 

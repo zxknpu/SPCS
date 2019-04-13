@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\Dialog\PublicInterfaces\CATDlgMenuItem.h"
+#include "D:\DassaultSystemes\B18\.\Dialog\PublicInterfaces\CATDlgMenuItem.h"
 

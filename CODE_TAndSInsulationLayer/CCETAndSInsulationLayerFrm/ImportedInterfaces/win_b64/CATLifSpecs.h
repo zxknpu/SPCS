@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\KnowledgeInterfaces\PublicInterfaces\CATLifSpecs.h"
+#include "D:\DassaultSystemes\B18\.\KnowledgeInterfaces\PublicInterfaces\CATLifSpecs.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\Mathematics\PublicInterfaces\CATMathDirection2D.h"
+#include "D:\DassaultSystemes\B18\.\Mathematics\PublicInterfaces\CATMathDirection2D.h"
 

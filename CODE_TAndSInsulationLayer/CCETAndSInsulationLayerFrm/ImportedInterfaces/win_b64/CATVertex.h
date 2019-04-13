@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\GMModelInterfaces\PublicInterfaces\CATVertex.h"
+#include "D:\DassaultSystemes\B18\.\NewTopologicalObjects\PublicInterfaces\CATVertex.h"
 

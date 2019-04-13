@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\CATGSOUseItf\PublicInterfaces\CATGSMDevelopDef.h"
+#include "D:\DassaultSystemes\B18\.\GSOInterfaces\PublicInterfaces\CATGSMDevelopDef.h"
 

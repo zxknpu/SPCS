@@ -96,7 +96,7 @@ CATCmdContainer * CCETAndSInsulationLayerTlb::CreateToolbars()
 	//Menu
 	NewAccess(CATCmdContainer,pRootMenuContainer,RootMenuContainer);//顶层菜单的容器，不可见
 
-	NewAccess(CATCmdContainer,pRootMenu,CR929飞机隔热隔声层3D制图软件);//顶层菜单
+	NewAccess(CATCmdContainer,pRootMenu,XXX);//顶层菜单
 	SetAccessChild(pRootMenuContainer,pRootMenu);
 
 	NewAccess(CATCmdContainer,pSoundproofCottonCreatioSubMenu,隔音棉创建);

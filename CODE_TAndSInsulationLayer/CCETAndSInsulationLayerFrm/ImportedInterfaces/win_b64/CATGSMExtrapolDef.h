@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\CATGSMUseItf\PublicInterfaces\CATGSMExtrapolDef.h"
+#include "D:\DassaultSystemes\B18\.\GSMInterfaces\PublicInterfaces\CATGSMExtrapolDef.h"
 

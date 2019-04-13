@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ObjectSpecsModeler\PublicInterfaces\CATSystemOleContentFormat.h"
+#include "D:\DassaultSystemes\B18\.\ObjectSpecsModeler\PublicInterfaces\CATSystemOleContentFormat.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ProductStructure\PublicInterfaces\CATIPrdRepresentation.h"
+#include "D:\DassaultSystemes\B18\.\ProductStructure\PublicInterfaces\CATIPrdRepresentation.h"
 

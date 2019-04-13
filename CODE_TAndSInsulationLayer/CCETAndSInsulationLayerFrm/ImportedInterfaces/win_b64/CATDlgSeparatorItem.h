@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\Dialog\PublicInterfaces\CATDlgSeparatorItem.h"
+#include "D:\DassaultSystemes\B18\.\Dialog\PublicInterfaces\CATDlgSeparatorItem.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\VisualizationBase\PublicInterfaces\CATVizCursor.h"
+#include "D:\DassaultSystemes\B18\.\VisualizationBase\PublicInterfaces\CATVizCursor.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\CATGSOUseItf\PublicInterfaces\CATGSOJunctionDef.h"
+#include "D:\DassaultSystemes\B18\.\GSOInterfaces\PublicInterfaces\CATGSOJunctionDef.h"
 

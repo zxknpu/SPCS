@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\PartInterfaces\PublicInterfaces\CATIRectPatt.h"
+#include "D:\DassaultSystemes\B18\.\PartInterfaces\PublicInterfaces\CATIRectPatt.h"
 

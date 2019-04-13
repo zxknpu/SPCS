@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\DraftingInterfaces\PublicInterfaces\CATDrwAssDefs.h"
+#include "D:\DassaultSystemes\B18\.\DraftingInterfaces\PublicInterfaces\CATDrwAssDefs.h"
 

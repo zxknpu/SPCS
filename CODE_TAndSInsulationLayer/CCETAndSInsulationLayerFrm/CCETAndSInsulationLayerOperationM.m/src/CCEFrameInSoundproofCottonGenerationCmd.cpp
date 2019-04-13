@@ -81,6 +81,127 @@ CATBoolean CCEFrameInSoundproofCottonGenerationCmd::ActionOne( void *data )
 {
   // TODO: Define the action associated with the transition 
   // ------------------------------------------------------
+	//创建Capture
+	int iGetMainContainer =  GetMainContainer();
+
+	CATInit_var spInitOnDoc=NULL_var;
+	HRESULT hr= piDocument->QueryInterface(IID_CATInit,(void **)&spInitOnDoc);
+	if (NULL_var==spInitOnDoc)
+	{
+		cout<<"failed in getting  CATInit"<<endl;
+		return FALSE;
+	}
+
+
+	CATITPSDocument *piTPSDoc= NULL;
+	hr=spInitOnDoc->QueryInterface(IID_CATITPSDocument,(void **)&piTPSDoc);
+	if(FAILED(hr)||!piTPSDoc)
+	{
+		cout<<"failed in getting  CATITPSDocument"<<endl;
+		return FALSE;
+	}
+	else cout<<"successful in getting  CATITPSDocument"<<endl;
+
+	CATIDocRoots *piDocRootsOnDoc = NULL;
+	HRESULT rc = piDocument -> QueryInterface(IID_CATIDocRoots,(void**)&piDocRootsOnDoc);
+	if(FAILED(hr)||!piDocRootsOnDoc)
+	{
+		cout<<"failed in getting  CATIDocRoots"<<endl;
+		return FALSE;
+	}
+	else cout<<"successful in getting  CATIDocRoots"<<endl;
+
+
+
+	CATListValCATBaseUnknown_var* pRootProducts = piDocRootsOnDoc -> GiveDocRoots();
+	if(!pRootProducts)
+	{
+		cout<<"failed in getting  CATListValCATBaseUnknown"<<endl;
+		return FALSE;
+	}
+	else cout<<"successful in getting  CATListValCATBaseUnknown"<<endl;
+
+	CATIProduct_var root_product;
+	root_product = (*pRootProducts)[1];
+	if(!root_product)
+	{
+		cout<<"failed in getting  CATIProduct"<<endl;
+		return FALSE;
+	}
+	else cout<<"successful in getting  CATIProduct"<<endl;
+
+
+	CATIProduct_var spRefProduct=root_product->GetReferenceProduct( );
+	if(spRefProduct==NULL_var)
+	{
+		cout<<"error in spRefProduct"<<endl;
+	}
+	else cout<<"successful in spRefProduct"<<endl;
+
+	CATITPSList *piTPSList = NULL;
+	hr=piTPSDoc->GetSets(&piTPSList,CATTPSSSMRecursive );
+
+
+	unsigned int nbSet;
+	piTPSList->Count(&nbSet);
+	cout<<"nbSet  "<<nbSet<<endl;
+
+	CATITPSComponent *piTPSCmp = NULL;
+	hr=piTPSList->Item(0,&piTPSCmp);
+	if(FAILED(hr))
+	{
+		cout<<"error in CATITPSComponent"<<endl;
+	}
+	else cout<<"successful in CATITPSComponent"<<endl;
+
+	CATITPSSet *piTPSSet = NULL;
+	hr=piTPSCmp->QueryInterface(IID_CATITPSSet,(void **)&piTPSSet);
+	if(FAILED(hr))
+	{
+		cout<<"error in CATITPSSet"<<endl;
+	}
+	else cout<<"successful in CATITPSSet"<<endl;
+	CATITPSCaptureFactory* pTPSFactory = NULL;
+	piTPSSet->QueryInterface(IID_CATITPSCaptureFactory,(VOID**)&pTPSFactory);
+
+
+
+
+	////CATTPSInstantiateComponent (DfTPS_ItfTPSCaptureServices,(void**) & pTPSFactory);
+	if (pTPSFactory != NULL)
+	{
+		cout<<"Successful in pTPSFactory"<<endl;
+		//创建Capture
+		CATITPSCapture* pCapture = NULL;
+		cout<<"1"<<endl;
+		pTPSFactory->CreateCapture(&pCapture);
+		cout<<"2"<<endl;
+		if (pCapture != NULL)
+		{
+			cout<<"Successful in pCapture"<<endl;
+			pCapture->SetActiveViewState(CATTrue);
+			pCapture->SetManageHideShowBody(FALSE);
+			 
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	RequestDelayedDestruction();
 	if (_Panel != NULL) 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\CATGSOUseItf\PublicInterfaces\CATGSOWrapCurveDef.h"
+#include "D:\DassaultSystemes\B18\.\GSOInterfaces\PublicInterfaces\CATGSOWrapCurveDef.h"
 

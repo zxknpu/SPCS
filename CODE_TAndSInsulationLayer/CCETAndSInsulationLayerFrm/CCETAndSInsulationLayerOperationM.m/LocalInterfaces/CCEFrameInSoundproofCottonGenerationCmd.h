@@ -26,6 +26,14 @@
 #include "ExternHeader.h"
 #include "CCEFrameInSoundproofCottonGenerationDlg.h"
 
+#include "CATITPSCaptureFactory.h"
+#include "CATTPSInstantiateComponent.h"
+#include "CATITPSCapture.h"
+#include "CATITPSDocument.h"
+#include "CATITPSList.h"
+#include "CATITPSComponent.h"
+#include "CATITPSSet.h"
+
 //----------------------------------------------------------------------
 
 /**

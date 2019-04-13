@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\BSFBuildtimeData\PublicInterfaces\CATIAV5Precompiled.h"
+#include "D:\DassaultSystemes\B18\.\SpecialAPI\PublicInterfaces\CATIAV5Precompiled.h"
 

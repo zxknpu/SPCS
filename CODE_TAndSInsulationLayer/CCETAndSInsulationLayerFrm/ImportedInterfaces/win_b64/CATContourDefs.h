@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\CATSketcherUseItf\PublicInterfaces\CATContourDefs.h"
+#include "D:\DassaultSystemes\B18\.\SketcherInterfaces\PublicInterfaces\CATContourDefs.h"
 

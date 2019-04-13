@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\MechanicalModelerUI\PublicInterfaces\CATMechanicalModelerUI.h"
+#include "D:\DassaultSystemes\B18\.\MechanicalModelerUI\PublicInterfaces\CATMechanicalModelerUI.h"
 

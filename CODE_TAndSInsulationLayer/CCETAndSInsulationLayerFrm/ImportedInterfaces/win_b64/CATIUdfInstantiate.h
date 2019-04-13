@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\MechanicalCommands\PublicInterfaces\CATIUdfInstantiate.h"
+#include "D:\DassaultSystemes\B18\.\MechanicalCommands\PublicInterfaces\CATIUdfInstantiate.h"
 

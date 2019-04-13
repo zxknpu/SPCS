@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ObjectModelerBase\PublicInterfaces\AD0XXBAS.h"
+#include "D:\DassaultSystemes\B18\.\ObjectModelerBase\PublicInterfaces\AD0XXBAS.h"
 

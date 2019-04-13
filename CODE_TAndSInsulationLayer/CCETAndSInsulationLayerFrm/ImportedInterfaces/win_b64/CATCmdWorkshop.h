@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ApplicationFrame\PublicInterfaces\CATCmdWorkshop.h"
+#include "D:\DassaultSystemes\B18\.\ApplicationFrame\PublicInterfaces\CATCmdWorkshop.h"
 

@@ -45,6 +45,14 @@ LINK_WITH = $(WIZARD_LINK_MODULES)  CATApplicationFrame \
              CATGotInterfaces \
              CATMecModInterfaces \
              ProductStructurePubIDL \
+             CATTPSItf \
+             CATTPSItfCPP \
+             CATTPSUUID \
+             
+             
+             
+
+             
              
 
 # System dependant variables

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ProductStructure\PublicInterfaces\CATPrdDecls.h"
+#include "D:\DassaultSystemes\B18\.\ProductStructure\PublicInterfaces\CATPrdDecls.h"
 

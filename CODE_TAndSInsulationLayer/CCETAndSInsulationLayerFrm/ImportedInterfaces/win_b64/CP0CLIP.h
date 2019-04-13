@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ObjectModelerBase\PublicInterfaces\CP0CLIP.h"
+#include "D:\DassaultSystemes\B18\.\ObjectModelerBase\PublicInterfaces\CP0CLIP.h"
 

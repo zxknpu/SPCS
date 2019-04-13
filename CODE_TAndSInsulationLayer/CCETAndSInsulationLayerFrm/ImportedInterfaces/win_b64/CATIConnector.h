@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ObjectSpecsModeler\PublicInterfaces\CATIConnector.h"
+#include "D:\DassaultSystemes\B18\.\ObjectSpecsModeler\PublicInterfaces\CATIConnector.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\Visualization\PublicInterfaces\CATVisPropertiesValues.h"
+#include "D:\DassaultSystemes\B18\.\Visualization\PublicInterfaces\CATVisPropertiesValues.h"
 

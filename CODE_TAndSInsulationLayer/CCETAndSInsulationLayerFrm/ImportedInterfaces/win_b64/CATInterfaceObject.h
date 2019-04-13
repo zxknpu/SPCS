@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ObjectModelerBase\PublicInterfaces\CATInterfaceObject.h"
+#include "D:\DassaultSystemes\B18\.\ObjectModelerBase\PublicInterfaces\CATInterfaceObject.h"
 

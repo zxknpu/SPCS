@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\Mathematics\PublicInterfaces\CATIACGMLevel.h"
+#include "D:\DassaultSystemes\B18\.\Mathematics\PublicInterfaces\CATIACGMLevel.h"
 

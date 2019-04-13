@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\System\PublicInterfaces\CATSTGMode.h"
+#include "D:\DassaultSystemes\B18\.\System\PublicInterfaces\CATSTGMode.h"
 

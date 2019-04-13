@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ObjectModelerSystem\PublicInterfaces\sequence_octet.h"
+#include "D:\DassaultSystemes\B18\.\ObjectModelerBase\PublicInterfaces\sequence_octet.h"
 

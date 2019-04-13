@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\KnowledgeInterfaces\PublicInterfaces\CATICkeMagnitude.h"
+#include "D:\DassaultSystemes\B18\.\KnowledgeInterfaces\PublicInterfaces\CATICkeMagnitude.h"
 

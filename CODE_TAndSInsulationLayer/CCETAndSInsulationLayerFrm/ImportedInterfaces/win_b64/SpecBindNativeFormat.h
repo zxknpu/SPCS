@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ObjectSpecsModeler\PublicInterfaces\SpecBindNativeFormat.h"
+#include "D:\DassaultSystemes\B18\.\ObjectSpecsModeler\PublicInterfaces\SpecBindNativeFormat.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\MecModInterfaces\PublicGenerated\win_b64\CATIAGeometricElements.h"
+#include "D:\DassaultSystemes\B18\.\MecModInterfaces\PublicGenerated\win_b64\CATIAGeometricElements.h"
 

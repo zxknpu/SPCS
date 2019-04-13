@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\InteractiveInterfaces\PublicInterfaces\CATIIniInteractiveSession.h"
+#include "D:\DassaultSystemes\B18\.\InteractiveInterfaces\PublicInterfaces\CATIIniInteractiveSession.h"
 

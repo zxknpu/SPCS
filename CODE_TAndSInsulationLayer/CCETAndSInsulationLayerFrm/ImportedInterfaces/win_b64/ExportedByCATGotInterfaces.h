@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\GSOInterfaces\PublicInterfaces\ExportedByCATGotInterfaces.h"
+#include "D:\DassaultSystemes\B18\.\GSOInterfaces\PublicInterfaces\ExportedByCATGotInterfaces.h"
 

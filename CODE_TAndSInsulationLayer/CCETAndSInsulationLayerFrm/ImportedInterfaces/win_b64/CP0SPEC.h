@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ObjectSpecsModeler\PublicInterfaces\CP0SPEC.h"
+#include "D:\DassaultSystemes\B18\.\ObjectSpecsModeler\PublicInterfaces\CP0SPEC.h"
 

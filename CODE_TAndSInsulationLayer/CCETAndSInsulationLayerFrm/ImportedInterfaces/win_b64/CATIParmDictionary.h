@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\KnowledgeInterfaces\PublicInterfaces\CATIParmDictionary.h"
+#include "D:\DassaultSystemes\B18\.\KnowledgeInterfaces\PublicInterfaces\CATIParmDictionary.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\System\PublicInterfaces\CATBSTR.h"
+#include "D:\DassaultSystemes\B18\.\System\PublicInterfaces\CATBSTR.h"
 

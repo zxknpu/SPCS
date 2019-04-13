@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\MechanicalModeler\PublicInterfaces\CATMmrInterPartCopy.h"
+#include "D:\DassaultSystemes\B18\.\MechanicalModeler\PublicInterfaces\CATMmrInterPartCopy.h"
 

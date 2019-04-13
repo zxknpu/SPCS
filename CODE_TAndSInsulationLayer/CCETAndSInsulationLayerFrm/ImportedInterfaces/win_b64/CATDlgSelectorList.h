@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\Dialog\PublicInterfaces\CATDlgSelectorList.h"
+#include "D:\DassaultSystemes\B18\.\Dialog\PublicInterfaces\CATDlgSelectorList.h"
 

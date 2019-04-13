@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\CATSketcherUseItf\PublicInterfaces\CAT2DOffsetDefs.h"
+#include "D:\DassaultSystemes\B18\.\SketcherInterfaces\PublicInterfaces\CAT2DOffsetDefs.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\GSOInterfaces\PublicInterfaces\CATIGSOFactory.h"
+#include "D:\DassaultSystemes\B18\.\GSOInterfaces\PublicInterfaces\CATIGSOFactory.h"
 

@@ -1,2 +1,2 @@
-#include "C:\DassaultSystemes\B22\.\ObjectModelerNavigator\PublicInterfaces\CATIRedrawEvent.h"
+#include "D:\DassaultSystemes\B18\.\ObjectModelerBase\PublicInterfaces\CATIRedrawEvent.h"
 
